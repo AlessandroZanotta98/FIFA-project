@@ -1,2 +1,2 @@
 # FIFA-project
-Player role classification in fifa using mixtures
+Fifa Player role classification using mixtures in R
